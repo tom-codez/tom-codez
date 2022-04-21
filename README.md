@@ -2,6 +2,8 @@
 
 - I started to learn code full time in April 2022.
 
+- My work is also viewable at: https://codepen.io/tom-codez
+
 - 🌱 I’m currently learning HTML, CSS, C & Javascript
 
 - 📫 How to reach me...
