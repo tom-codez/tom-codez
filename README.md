@@ -1,18 +1,19 @@
-- 👋  Hi, I’m @tom-codez
+- 👋  Hi, I’m @tomcodedthis
 
 - I started to learn code full time in April 2022
 
-- I use Github pages but my work is also viewable at: https://codepen.io/tom-codez
+- I use Github pages but my work is also viewable at: https://codepen.io/tomcodedthis
 
 - I’m learning HTML, CSS, C & Javascript
 
-- Drop me an e-mail @ tomcodedthis@gmail.com
+- Drop me an e-mail: tomcodedthis@gmail.com
 
 The sites/resources I've used so far:
 
 - https://www.freecodecamp.org/ - Free Code Camp
 - https://www.theodinproject.com/paths - The Odin Project
 - https://www.codecademy.com/ - Code Academy
+- https://javascript30.com/ - 30 Days of Javascript by @wesbos
 - https://www.youtube.com/c/cs50 - CS50
 - https://bento.io/ - Bento.io
 <!---
